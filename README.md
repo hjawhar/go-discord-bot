@@ -1,1 +1,1 @@
-# go-discord-bot
+# Discord Bot written in golang
